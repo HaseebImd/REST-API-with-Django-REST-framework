@@ -1,0 +1,1 @@
+[How to create a REST API with Django REST framework](https://blog.logrocket.com/django-rest-framework-create-api/)
